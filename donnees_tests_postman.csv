@@ -1,0 +1,6 @@
+﻿testId,title,body,userId
+TC-01,Introduction à Postman,Apprendre les API REST,1
+TC-02,Analyse de données,Introduction à Power BI,2
+TC-03,Automatisation,Tester avec Postman,3
+TC-04,Article spécial éàç,Contenu avec accents,4
+TC-05,Article très court,Test,5

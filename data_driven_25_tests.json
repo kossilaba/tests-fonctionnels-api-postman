@@ -1,0 +1,24 @@
+{
+	"id": "6ae37d2d7a68abcd13771b5e",
+	"name": "JSONPlaceholder – Tests fonctionnels",
+	"timestamp": "2026-10-29T17:06:54.549Z",
+	"collection_id": "D8aC9Faf29E8b598a3093F88",
+	"folder_id": 0,
+	"environment_id": "f2631c3d-21ed-4090-ab17-ab8e11ecc4da",
+	"totalPass": 25,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-10-29T17:06:53.075Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 5,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "a172Aa7ffddbC8bdF1eDAec3"
+			}
+		]
+	}
+}

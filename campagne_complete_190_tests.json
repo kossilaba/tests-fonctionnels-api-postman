@@ -1,0 +1,48 @@
+{
+	"id": "6ae37c0b7a68abcd13771b5d",
+	"name": "JSONPlaceholder – Tests fonctionnels",
+	"timestamp": "2026-10-29T17:02:09.277Z",
+	"collection_id": "D8aC9Faf29E8b598a3093F88",
+	"folder_id": 0,
+	"environment_id": "f2631c3d-21ed-4090-ab17-ab8e11ecc4da",
+	"totalPass": 190,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2026-10-29T17:02:03.346Z",
+	"totalFail": 0,
+	"results": [],
+	"count": 5,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "cB24E5b917Efb13f46Db2deF"
+			},
+			{
+				"id": "67994dC1a75b6523Bc9bcd8A"
+			},
+			{
+				"id": "0EE04Ebcc49c7bDc8EA38Fef"
+			},
+			{
+				"id": "49fedD2cDD8dBcF3C3A4bEaF"
+			},
+			{
+				"id": "20c8F8d9fdA1BEeefAe9Bae3"
+			},
+			{
+				"id": "76e6100a2DACA9EaDad4BED0"
+			},
+			{
+				"id": "3D1F216f3E7F4fBc00A07f2b"
+			},
+			{
+				"id": "f1E19F94AD7C12AeBfb88F10"
+			},
+			{
+				"id": "a172Aa7ffddbC8bdF1eDAec3"
+			}
+		]
+	}
+}
